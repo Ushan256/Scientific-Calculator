@@ -25,7 +25,7 @@ This calculator goes beyond basic arithmetic by including trigonometric, logarit
 ## How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Scientific-Calculator.git](https://github.com/YourUsername/Scientific-Calculator.git)
+    git clone [https://github.com/Ushan256/Scientific-Calculator.git](https://github.com/Ushan256/Scientific-Calculator.git)
     ```
 2.  Compile the source code:
     ```bash
